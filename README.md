@@ -1,2 +1,1 @@
-# android-howto-library
-Documents and notes about Android
+# Documents and notes about Android
